@@ -1,0 +1,80 @@
+.background{
+    position:absolute;
+    left:500px;
+    width:300px;
+    height:450px;
+    top:100px;
+}
+.sun{
+    position:absolute;
+    left:600px;
+    top:120px;
+    height:100px;
+    width:100px;
+}
+.fish1{
+    position:absolute;
+    left:560px;
+    top:370px;
+    height:70px;
+    width:70px;
+}
+.fish4{
+    position:absolute;
+    height:90px;
+    width:90px;
+    top:450px;
+    left:560px;
+}
+.fish2{
+    left:700px;
+    position:absolute;
+}
+.carrot{
+    position:absolute;
+    top:200px;
+    left:522px;
+    height:200px;
+    width:257px;
+}
+.scale{
+    position:absolute;
+    top:285px;
+    left:500px;
+    height:130px;
+    width:300px;
+}
+.score{
+    position: absolute;
+    top:100px;
+    left:720px;
+    font-weight: 600;
+}
+.opt1, .opt2, .opt3, .opt4{
+    color:white;
+    position: absolute;
+    font-weight: 15px;
+    top:400px;
+    left:530px;
+}
+.opt2{
+    top:400px;
+    left:710px
+}
+.opt3{
+    top:490px;
+}
+.opt4{
+    top:490px;
+    left:720px;
+}
+.correct{
+    height:30px;
+    width:200px;
+    background-color: rgb(103, 103, 155);
+    font-size: large;
+    position: absolute;
+    top:230px;
+    left:550px;
+    text-align: center;
+}
